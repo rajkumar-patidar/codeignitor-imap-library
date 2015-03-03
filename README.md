@@ -1,6 +1,8 @@
 ## Codeignitor Imap Liabrary to get all emails:
 
-To get all unread and read email using gmail login details. 
+To get all unread and read email using gmail login details. This require IMAP library in php. you can install it easily by terminal command in linux.
+
+> apt-get install php5-imap
 
 1. Firstly put imap.php into codeignitor library folder.
 2. Load library into your controller like 
