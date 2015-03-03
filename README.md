@@ -15,10 +15,10 @@ To get all unread and read email using gmail login details.
 
 > $password	= '123456';
 
-###### To set subject of gmail inbox for search
+###### To search specific email using subject name into inbox (optional)
 > $subject	= 'HR';
 
-###### To set maximum emails featching quantity from gmail 
+###### Set maximum featching emails limits (optional)
 > $maximum	= '10';
 
 3. Now call Imap function into your controller like.
