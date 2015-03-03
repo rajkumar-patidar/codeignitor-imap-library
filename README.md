@@ -1,4 +1,4 @@
-Demo
-====
+## Codeignitor Imap Liabrary to get all emails:
 
-Testing...
+To get all unread and read email using gmail login details. 
+
